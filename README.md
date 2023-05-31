@@ -20,14 +20,11 @@
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -69,8 +66,7 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-No prerequisites
-
+In order to run this project you need a code editor (any), browser (any), git
 
 ### Setup
 
@@ -80,19 +76,11 @@ git clone https://github.com/balatstar/hello-microverse.git
 
 ### Install
 
-No installation required.
+[Install git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 ### Usage
 
 Open index.html in a browser to view.
-
-### Run tests
-
-No tests
-
-### Deployment
-
-No deployment instructions
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -126,6 +114,6 @@ Thank you to Microverse for hosting a good learning environment.
 
 ## 📝 License <a name="license"></a>
 
-This project is not licensed.
+This project is [MIT](./LICENSE.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
